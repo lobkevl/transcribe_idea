@@ -1,8 +1,4 @@
-Here's your README:
 
----
-
-```markdown
 # Voice Message to Text
 
 A Python script that transcribes WhatsApp voice messages into text using the OpenAI Whisper API. Supports 90+ languages and automatically handles right-to-left text for Hebrew, Arabic, Farsi, and Urdu.
